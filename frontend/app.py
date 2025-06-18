@@ -3,8 +3,7 @@ import requests
 
 st.title("E-commerce Product Search")
 
-# user_id = st.text_input("Enter your user ID (for personalization):")
-user_id = 1
+user_id = st.text_input("Enter your user ID (for personalization):")
 query = st.text_input("Enter your search query:")
 
 if st.button("Search"):
