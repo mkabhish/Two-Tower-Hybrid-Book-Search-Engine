@@ -1,6 +1,6 @@
-# E-commerce Semantic Search Engine
+# Book Semantic Search Engine
 
-A modern, industry-inspired product search engine for e-commerce, featuring hybrid retrieval (BM25 + dense vectors), cross-encoder reranking, and basic personalization. Built with FastAPI (backend), Streamlit (frontend), FAISS, Whoosh, and Transformers.
+A modern, industry-inspired product search engine for Books, featuring hybrid retrieval (BM25 + dense vectors), cross-encoder reranking, and basic personalization. Built with FastAPI (backend), Streamlit (frontend), FAISS, Whoosh, and Transformers.
 
 ---
 
